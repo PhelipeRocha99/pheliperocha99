@@ -1,3 +1,6 @@
+<h1><p style="text-align:center"><b>EGO SUM VIA VERITAS ET VITA</b></br>
+<img src=INRI.jpg></p></br></h1>
+
 # Hello World 🌎 | I'am Phelipe Rocha
 
 <div>
@@ -5,6 +8,8 @@
   <img heigth:"180em" src="https://github-readme-stats.vercel.app/api?username=pheliperocha99&count_private=true&show_icons=true&count_private=true&title_color=FFB300&icon_color=FFB300&bg_color=010409&text_color=976909&border_color=999"/>
   <img heigth:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheliperocha99&layout=compact&langs_count=16&title_color=FFB300&icon_color=FFB300&bg_color=010409&text_color=976909&border_color=999"/>
 </div>
+
+
   
 # 👤 About Me
 
